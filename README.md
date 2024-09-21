@@ -1,4 +1,4 @@
-<h1 align="center">Template for projects with node and typescript using hexagonal architecture</h1>
+<h1 align="center">Payments</h1>
 
 ## Table of Contents
 
